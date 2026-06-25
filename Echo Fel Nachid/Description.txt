@@ -1,0 +1,13 @@
+200p
+
+
+Title: Echo Fel Nachid
+
+
+Description:
+A stadium audio recording was recovered from the CSCC Olympics opening ceremony.
+The track sounds like a normal ceremony nachid, but investigators believe an unusual echo was captured inside the recording.
+Analyze the audio carefully and recover the hidden flag.
+
+Flag format: CSCC{}
+Author: oxFelouja

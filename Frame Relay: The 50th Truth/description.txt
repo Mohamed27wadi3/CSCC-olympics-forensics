@@ -1,0 +1,14 @@
+100p
+
+Level: Easy
+
+title :   Frame Relay: The 50th Truth
+
+
+Description:
+A relay broadcast artifact was recovered from the CSCC Olympics media system.
+The sequence looks fragmented, as if the evidence was exposed only through brief visual windows during playback. No single frame is enough to reveal the full message.
+Recover the hidden flag.
+
+Flag format: CSCC{}
+Author: oxFelouja

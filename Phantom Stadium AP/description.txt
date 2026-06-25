@@ -1,0 +1,14 @@
+
+200
+
+
+title :  Phantom Stadium AP
+
+
+A network capture was recovered after a silent disruption inside the CSCC Olympics stadium.
+
+Find the hidden path, reconstruct the secret, and recover the flag.
+
+Flag format: CSCC{}
+
+author : oxFelouja

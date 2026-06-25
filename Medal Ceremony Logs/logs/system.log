@@ -1,0 +1,303 @@
+2026-06-04T09:00:00Z lane-watch[888]: cache refresh table=standings rows=11
+2026-06-04T09:00:03Z medals-worker[712]: warning duplicate packet seen stream=camera
+2026-06-04T09:00:05Z scoreboard-cache[897]: local archive scan completed files=26
+2026-06-04T09:00:07Z podium-camera[990]: warning duplicate packet seen stream=relay
+2026-06-04T09:00:10Z ceremony-bus[758]: camera preview saved lane=2
+2026-06-04T09:00:14Z scoreboard-cache[855]: ceremony display refresh ok node=stadium-7
+2026-06-04T09:00:20Z anthem-player[704]: warning duplicate packet seen stream=podium
+2026-06-04T09:00:26Z medals-worker[915]: job completed id=JOB-6728
+2026-06-04T09:00:31Z timer-sync[803]: cache refresh table=standings rows=59
+2026-06-04T09:00:37Z lane-watch[987]: local archive scan completed files=13
+2026-06-04T09:00:39Z relay-render[706]: medal update event queued lane=5
+2026-06-04T09:00:39Z relay-render[905]: timer sync drift_ns=762
+2026-06-04T09:00:42Z relay-render[886]: relay frame batch completed frames=9
+2026-06-04T09:00:43Z lane-watch[920]: local archive scan completed files=55
+2026-06-04T09:00:47Z podium-camera[811]: camera preview saved lane=8
+2026-06-04T09:00:48Z medals-worker[830]: stream checkpoint rid=MED-1020 pointer=0xba33
+2026-06-04T09:00:49Z timer-sync[979]: temporary replay buffer rotated segment=43
+2026-06-04T09:00:50Z lane-watch[917]: cache refresh table=standings rows=43
+2026-06-04T09:00:51Z lane-watch[712]: stream checkpoint rid=SCB-8840 pointer=0x9190
+2026-06-04T09:00:57Z lane-watch[785]: camera preview saved lane=1
+2026-06-04T09:01:00Z ceremony-bus[890]: stream checkpoint rid=JDG-7422 pointer=0xd8aa
+2026-06-04T09:01:04Z timer-sync[915]: camera preview saved lane=8
+2026-06-04T09:01:06Z ceremony-bus[782]: temporary replay buffer rotated segment=27
+2026-06-04T09:01:08Z timer-sync[767]: stream checkpoint rid=REF-7781 pointer=0xa452
+2026-06-04T09:01:14Z anthem-player[939]: timer sync drift_ns=-1462
+2026-06-04T09:01:21Z ceremony-bus[991]: cache refresh table=standings rows=101
+2026-06-04T09:01:25Z lane-watch[871]: cache refresh table=standings rows=32
+2026-06-04T09:01:31Z ceremony-bus[917]: job completed id=JOB-6840
+2026-06-04T09:01:33Z lane-watch[708]: job completed id=JOB-9133
+2026-06-04T09:01:35Z ceremony-bus[795]: temporary replay buffer rotated segment=49
+2026-06-04T09:01:38Z anthem-player[926]: cache refresh table=standings rows=35
+2026-06-04T09:01:40Z relay-render[705]: timer sync drift_ns=1849
+2026-06-04T09:01:45Z lane-watch[945]: stream checkpoint rid=VIEW-3131 pointer=0xe8af
+2026-06-04T09:01:45Z podium-camera[945]: job completed id=JOB-9001
+2026-06-04T09:01:46Z lane-watch[955]: job completed id=JOB-8799
+2026-06-04T09:01:48Z podium-camera[881]: ceremony display refresh ok node=stadium-3
+2026-06-04T09:01:48Z scoreboard-cache[990]: timer sync drift_ns=-5373
+2026-06-04T09:01:49Z timer-sync[900]: cache refresh table=standings rows=75
+2026-06-04T09:01:51Z podium-camera[763]: local archive scan completed files=8
+2026-06-04T09:02:04Z lane-watch[848]: cache refresh table=standings rows=65
+2026-06-04T09:02:05Z anthem-player[809]: cache refresh table=standings rows=52
+2026-06-04T09:02:05Z ceremony-bus[993]: relay frame batch completed frames=32
+2026-06-04T09:02:09Z podium-camera[766]: worker heartbeat queue=medals latency_ms=44
+2026-06-04T09:02:09Z timer-sync[842]: relay frame batch completed frames=8
+2026-06-04T09:02:13Z relay-render[927]: job completed id=JOB-5467
+2026-06-04T09:02:15Z lane-watch[960]: local archive scan completed files=15
+2026-06-04T09:02:18Z timer-sync[994]: worker heartbeat queue=medals latency_ms=235
+2026-06-04T09:02:20Z timer-sync[950]: local archive scan completed files=10
+2026-06-04T09:02:30Z relay-render[790]: worker heartbeat queue=medals latency_ms=280
+2026-06-04T09:02:33Z lane-watch[973]: warning duplicate packet seen stream=relay
+2026-06-04T09:02:34Z relay-render[733]: relay frame batch completed frames=16
+2026-06-04T09:02:37Z scoreboard-cache[818]: cache refresh table=standings rows=84
+2026-06-04T09:02:38Z podium-camera[862]: stream checkpoint rid=VIEW-3131 pointer=0x6f8a
+2026-06-04T09:02:39Z lane-watch[890]: temporary replay buffer rotated segment=28
+2026-06-04T09:02:40Z timer-sync[769]: local archive scan completed files=45
+2026-06-04T09:02:47Z medals-worker[882]: stream checkpoint rid=MED-1020 pointer=0x62a3
+2026-06-04T09:02:49Z podium-camera[712]: medal update event queued lane=6
+2026-06-04T09:02:51Z podium-camera[759]: medal update event queued lane=2
+2026-06-04T09:02:58Z scoreboard-cache[774]: medal update event queued lane=1
+2026-06-04T09:02:59Z timer-sync[763]: worker heartbeat queue=medals latency_ms=143
+2026-06-04T09:03:00Z podium-camera[989]: stream checkpoint rid=VIEW-3131 pointer=0x7ba1
+2026-06-04T09:03:00Z scoreboard-cache[990]: job completed id=JOB-2210
+2026-06-04T09:03:04Z timer-sync[869]: job completed id=JOB-8181
+2026-06-04T09:03:06Z medals-worker[853]: warning duplicate packet seen stream=relay
+2026-06-04T09:03:08Z medals-worker[866]: camera preview saved lane=4
+2026-06-04T09:03:10Z anthem-player[709]: warning duplicate packet seen stream=finish
+2026-06-04T09:03:11Z relay-render[836]: stream checkpoint rid=MED-1020 pointer=0xcecf
+2026-06-04T09:03:15Z lane-watch[751]: timer sync drift_ns=-95
+2026-06-04T09:03:17Z podium-camera[788]: job completed id=JOB-5862
+2026-06-04T09:03:18Z lane-watch[977]: cache refresh table=standings rows=8
+2026-06-04T09:03:23Z lane-watch[987]: relay frame batch completed frames=6
+2026-06-04T09:03:26Z relay-render[713]: ceremony display refresh ok node=stadium-9
+2026-06-04T09:03:33Z lane-watch[805]: warning duplicate packet seen stream=anthem
+2026-06-04T09:03:33Z medals-worker[886]: medal update event queued lane=4
+2026-06-04T09:03:37Z scoreboard-cache[943]: worker heartbeat queue=medals latency_ms=203
+2026-06-04T09:03:41Z anthem-player[972]: job completed id=JOB-6171
+2026-06-04T09:03:41Z lane-watch[903]: stream checkpoint rid=REF-7781 pointer=0x8162
+2026-06-04T09:03:44Z anthem-player[883]: camera preview saved lane=5
+2026-06-04T09:03:44Z lane-watch[880]: relay frame batch completed frames=7
+2026-06-04T09:03:46Z timer-sync[760]: temporary replay buffer rotated segment=93
+2026-06-04T09:03:50Z scoreboard-cache[806]: job completed id=JOB-1907
+2026-06-04T09:03:51Z scoreboard-cache[895]: local archive scan completed files=52
+2026-06-04T09:03:53Z scoreboard-cache[746]: local archive scan completed files=41
+2026-06-04T09:03:54Z timer-sync[983]: local archive scan completed files=12
+2026-06-04T09:03:55Z scoreboard-cache[826]: cache refresh table=standings rows=66
+2026-06-04T09:03:57Z relay-render[700]: ceremony display refresh ok node=stadium-1
+2026-06-04T09:04:06Z anthem-player[737]: medal update event queued lane=5
+2026-06-04T09:04:07Z podium-camera[984]: stream checkpoint rid=JDG-7421 pointer=0xee02
+2026-06-04T09:04:15Z anthem-player[770]: worker heartbeat queue=medals latency_ms=259
+2026-06-04T09:04:15Z scoreboard-cache[976]: temporary replay buffer rotated segment=25
+2026-06-04T09:04:17Z podium-camera[845]: stream checkpoint rid=SCB-8840 pointer=0x7f75
+2026-06-04T09:04:17Z timer-sync[803]: cache refresh table=standings rows=117
+2026-06-04T09:04:18Z scoreboard-cache[989]: relay frame batch completed frames=40
+2026-06-04T09:04:21Z ceremony-bus[708]: warning duplicate packet seen stream=camera
+2026-06-04T09:04:25Z ceremony-bus[710]: ceremony display refresh ok node=stadium-5
+2026-06-04T09:04:25Z lane-watch[746]: warning duplicate packet seen stream=camera
+2026-06-04T09:04:25Z scoreboard-cache[886]: temporary replay buffer rotated segment=35
+2026-06-04T09:04:29Z relay-render[745]: warning duplicate packet seen stream=anthem
+2026-06-04T09:04:30Z lane-watch[922]: temporary replay buffer rotated segment=4
+2026-06-04T09:04:31Z scoreboard-cache[986]: temporary replay buffer rotated segment=50
+2026-06-04T09:04:36Z anthem-player[830]: medal update event queued lane=4
+2026-06-04T09:04:37Z ceremony-bus[885]: ceremony display refresh ok node=stadium-6
+2026-06-04T09:04:43Z medals-worker[973]: warning duplicate packet seen stream=anthem
+2026-06-04T09:04:45Z medals-worker[949]: cache refresh table=standings rows=15
+2026-06-04T09:04:46Z relay-render[925]: timer sync drift_ns=7283
+2026-06-04T09:04:47Z anthem-player[738]: local archive scan completed files=48
+2026-06-04T09:04:49Z lane-watch[973]: job completed id=JOB-7504
+2026-06-04T09:04:57Z timer-sync[925]: timer sync drift_ns=4606
+2026-06-04T09:04:59Z podium-camera[952]: stream checkpoint rid=POD-4040 pointer=0xf124
+2026-06-04T09:04:59Z scoreboard-cache[948]: timer sync drift_ns=8641
+2026-06-04T09:05:05Z medals-worker[971]: ceremony display refresh ok node=stadium-7
+2026-06-04T09:05:11Z lane-watch[806]: worker heartbeat queue=medals latency_ms=13
+2026-06-04T09:05:14Z lane-watch[918]: temporary replay buffer rotated segment=71
+2026-06-04T09:05:18Z lane-watch[975]: ceremony display refresh ok node=stadium-6
+2026-06-04T09:05:19Z medals-worker[784]: cache refresh table=standings rows=125
+2026-06-04T09:05:21Z anthem-player[857]: timer sync drift_ns=6430
+2026-06-04T09:05:21Z ceremony-bus[710]: relay frame batch completed frames=30
+2026-06-04T09:05:29Z lane-watch[993]: warning duplicate packet seen stream=podium
+2026-06-04T09:05:37Z timer-sync[818]: warning duplicate packet seen stream=anthem
+2026-06-04T09:05:39Z medals-worker[711]: relay frame batch completed frames=20
+2026-06-04T09:05:40Z relay-render[979]: camera preview saved lane=4
+2026-06-04T09:05:50Z timer-sync[944]: warning duplicate packet seen stream=podium
+2026-06-04T09:05:54Z podium-camera[774]: medal update event queued lane=8
+2026-06-04T09:05:54Z podium-camera[872]: camera preview saved lane=4
+2026-06-04T09:05:57Z timer-sync[985]: timer sync drift_ns=-8892
+2026-06-04T09:05:58Z scoreboard-cache[832]: worker heartbeat queue=medals latency_ms=34
+2026-06-04T09:06:00Z scoreboard-cache[967]: medal update event queued lane=3
+2026-06-04T09:06:01Z ceremony-bus[835]: cache refresh table=standings rows=40
+2026-06-04T09:06:02Z anthem-player[980]: temporary replay buffer rotated segment=75
+2026-06-04T09:06:02Z medals-worker[804]: relay frame batch completed frames=50
+2026-06-04T09:06:05Z anthem-player[708]: worker heartbeat queue=medals latency_ms=75
+2026-06-04T09:06:09Z ceremony-bus[741]: temporary replay buffer rotated segment=80
+2026-06-04T09:06:10Z medals-worker[761]: worker heartbeat queue=medals latency_ms=81
+2026-06-04T09:06:11Z relay-render[779]: temporary replay buffer rotated segment=95
+2026-06-04T09:06:17Z ceremony-bus[708]: warning duplicate packet seen stream=anthem
+2026-06-04T09:06:23Z anthem-player[957]: camera preview saved lane=7
+2026-06-04T09:06:28Z relay-render[974]: stream checkpoint rid=VIEW-3131 pointer=0x4199
+2026-06-04T09:06:31Z timer-sync[947]: temporary replay buffer rotated segment=25
+2026-06-04T09:06:38Z ceremony-bus[974]: medal update event queued lane=6
+2026-06-04T09:06:38Z medals-worker[709]: local archive scan completed files=18
+2026-06-04T09:06:42Z podium-camera[735]: relay frame batch completed frames=43
+2026-06-04T09:06:42Z relay-render[766]: job completed id=JOB-9662
+2026-06-04T09:06:44Z ceremony-bus[794]: cache refresh table=standings rows=9
+2026-06-04T09:06:48Z timer-sync[944]: cache refresh table=standings rows=81
+2026-06-04T09:06:51Z medals-worker[993]: timer sync drift_ns=3843
+2026-06-04T09:06:53Z timer-sync[989]: medal update event queued lane=2
+2026-06-04T09:06:54Z ceremony-bus[881]: job completed id=JOB-3457
+2026-06-04T09:06:59Z ceremony-bus[804]: local archive scan completed files=19
+2026-06-04T09:07:00Z ceremony-bus[873]: stream checkpoint rid=VIEW-3131 pointer=0x9659
+2026-06-04T09:07:03Z medals-worker[740]: warning duplicate packet seen stream=finish
+2026-06-04T09:07:05Z medals-worker[775]: warning duplicate packet seen stream=relay
+2026-06-04T09:07:09Z anthem-player[931]: warning duplicate packet seen stream=podium
+2026-06-04T09:07:11Z medals-worker[712]: relay frame batch completed frames=31
+2026-06-04T09:07:11Z medals-worker[995]: local archive scan completed files=6
+2026-06-04T09:07:13Z ceremony-bus[888]: local archive scan completed files=26
+2026-06-04T09:07:17Z scoreboard-cache[754]: timer sync drift_ns=4335
+2026-06-04T09:07:19Z relay-render[833]: ceremony display refresh ok node=stadium-5
+2026-06-04T09:07:20Z ceremony-bus[843]: relay frame batch completed frames=60
+2026-06-04T09:07:20Z scoreboard-cache[795]: worker heartbeat queue=medals latency_ms=252
+2026-06-04T09:07:26Z relay-render[932]: medal update event queued lane=2
+2026-06-04T09:07:30Z medals-worker[853]: timer sync drift_ns=-1699
+2026-06-04T09:07:42Z scoreboard-cache[925]: stream checkpoint rid=ADM-0001 pointer=0xe2fd
+2026-06-04T09:07:45Z medals-worker[771]: replay stream opened source=session:JDG-7421 actor=judge_backup mode=binary field=medal_bits order=finish_ns
+2026-06-04T09:07:47Z medals-worker[771]: codec=ascii-8bit encryption=disabled checksum=not_required
+2026-06-04T09:07:56Z podium-camera[749]: timer sync drift_ns=-7051
+2026-06-04T09:07:59Z lane-watch[741]: worker heartbeat queue=medals latency_ms=164
+2026-06-04T09:08:02Z scoreboard-cache[814]: timer sync drift_ns=6284
+2026-06-04T09:08:07Z ceremony-bus[732]: camera preview saved lane=8
+2026-06-04T09:08:11Z anthem-player[951]: ceremony display refresh ok node=stadium-4
+2026-06-04T09:08:11Z ceremony-bus[710]: warning duplicate packet seen stream=podium
+2026-06-04T09:08:20Z lane-watch[865]: timer sync drift_ns=3247
+2026-06-04T09:08:26Z podium-camera[880]: job completed id=JOB-7240
+2026-06-04T09:08:31Z lane-watch[920]: job completed id=JOB-7044
+2026-06-04T09:08:33Z scoreboard-cache[752]: temporary replay buffer rotated segment=9
+2026-06-04T09:08:35Z anthem-player[851]: ceremony display refresh ok node=stadium-6
+2026-06-04T09:08:35Z ceremony-bus[844]: stream checkpoint rid=JDG-7422 pointer=0xd55b
+2026-06-04T09:08:41Z scoreboard-cache[702]: warning duplicate packet seen stream=camera
+2026-06-04T09:08:41Z timer-sync[783]: timer sync drift_ns=-4208
+2026-06-04T09:08:45Z scoreboard-cache[717]: local archive scan completed files=37
+2026-06-04T09:08:54Z scoreboard-cache[721]: camera preview saved lane=7
+2026-06-04T09:08:56Z lane-watch[758]: job completed id=JOB-3484
+2026-06-04T09:08:56Z podium-camera[910]: medal update event queued lane=2
+2026-06-04T09:09:01Z ceremony-bus[910]: medal update event queued lane=4
+2026-06-04T09:09:03Z lane-watch[961]: temporary replay buffer rotated segment=77
+2026-06-04T09:09:04Z anthem-player[762]: relay frame batch completed frames=9
+2026-06-04T09:09:09Z scoreboard-cache[921]: local archive scan completed files=27
+2026-06-04T09:09:11Z scoreboard-cache[969]: local archive scan completed files=8
+2026-06-04T09:09:15Z timer-sync[968]: job completed id=JOB-1755
+2026-06-04T09:09:23Z scoreboard-cache[754]: cache refresh table=standings rows=70
+2026-06-04T09:09:26Z ceremony-bus[965]: warning duplicate packet seen stream=podium
+2026-06-04T09:09:28Z ceremony-bus[743]: cache refresh table=standings rows=62
+2026-06-04T09:09:28Z ceremony-bus[874]: ceremony display refresh ok node=stadium-4
+2026-06-04T09:09:29Z medals-worker[771]: replay stream closed source=session:JDG-7421 chunks=30 integrity=ok
+2026-06-04T09:09:34Z podium-camera[941]: timer sync drift_ns=-413
+2026-06-04T09:09:37Z podium-camera[730]: camera preview saved lane=6
+2026-06-04T09:09:38Z relay-render[725]: cache refresh table=standings rows=59
+2026-06-04T09:09:55Z podium-camera[863]: stream checkpoint rid=SCB-8840 pointer=0x475a
+2026-06-04T09:10:00Z ceremony-bus[906]: cache refresh table=standings rows=86
+2026-06-04T09:10:05Z relay-render[877]: stream checkpoint rid=JDG-7421 pointer=0xf7e4
+2026-06-04T09:10:10Z podium-camera[891]: stream checkpoint rid=SCB-8840 pointer=0x6f98
+2026-06-04T09:10:11Z ceremony-bus[810]: temporary replay buffer rotated segment=70
+2026-06-04T09:10:14Z anthem-player[744]: medal update event queued lane=2
+2026-06-04T09:10:14Z podium-camera[985]: cache refresh table=standings rows=113
+2026-06-04T09:10:15Z anthem-player[725]: relay frame batch completed frames=38
+2026-06-04T09:10:18Z relay-render[926]: stream checkpoint rid=JDG-7422 pointer=0x9676
+2026-06-04T09:10:23Z podium-camera[904]: timer sync drift_ns=8761
+2026-06-04T09:10:30Z lane-watch[982]: worker heartbeat queue=medals latency_ms=258
+2026-06-04T09:10:32Z relay-render[866]: timer sync drift_ns=-7382
+2026-06-04T09:10:32Z scoreboard-cache[928]: local archive scan completed files=60
+2026-06-04T09:10:36Z relay-render[973]: worker heartbeat queue=medals latency_ms=45
+2026-06-04T09:10:38Z relay-render[871]: ceremony display refresh ok node=stadium-6
+2026-06-04T09:10:39Z lane-watch[721]: local archive scan completed files=56
+2026-06-04T09:10:39Z medals-worker[747]: local archive scan completed files=44
+2026-06-04T09:10:39Z podium-camera[712]: worker heartbeat queue=medals latency_ms=181
+2026-06-04T09:10:41Z medals-worker[797]: temporary replay buffer rotated segment=53
+2026-06-04T09:10:43Z medals-worker[877]: relay frame batch completed frames=41
+2026-06-04T09:10:49Z timer-sync[884]: cache refresh table=standings rows=32
+2026-06-04T09:10:50Z ceremony-bus[804]: timer sync drift_ns=-4231
+2026-06-04T09:10:51Z relay-render[844]: worker heartbeat queue=medals latency_ms=55
+2026-06-04T09:10:52Z timer-sync[939]: warning duplicate packet seen stream=finish
+2026-06-04T09:10:59Z podium-camera[929]: timer sync drift_ns=2013
+2026-06-04T09:11:02Z ceremony-bus[914]: warning duplicate packet seen stream=finish
+2026-06-04T09:11:16Z anthem-player[914]: medal update event queued lane=3
+2026-06-04T09:11:17Z ceremony-bus[896]: local archive scan completed files=7
+2026-06-04T09:11:18Z anthem-player[716]: stream checkpoint rid=POD-4040 pointer=0x44e1
+2026-06-04T09:11:22Z lane-watch[928]: worker heartbeat queue=medals latency_ms=225
+2026-06-04T09:11:22Z podium-camera[930]: relay frame batch completed frames=47
+2026-06-04T09:11:24Z medals-worker[842]: medal update event queued lane=1
+2026-06-04T09:11:28Z lane-watch[946]: temporary replay buffer rotated segment=95
+2026-06-04T09:11:28Z medals-worker[872]: stream checkpoint rid=POD-4040 pointer=0x9dbb
+2026-06-04T09:11:38Z medals-worker[755]: warning duplicate packet seen stream=anthem
+2026-06-04T09:11:42Z scoreboard-cache[839]: relay frame batch completed frames=23
+2026-06-04T09:11:48Z anthem-player[700]: local archive scan completed files=53
+2026-06-04T09:11:56Z timer-sync[768]: warning duplicate packet seen stream=podium
+2026-06-04T09:11:58Z timer-sync[921]: medal update event queued lane=8
+2026-06-04T09:11:59Z ceremony-bus[764]: cache refresh table=standings rows=4
+2026-06-04T09:12:04Z lane-watch[974]: temporary replay buffer rotated segment=48
+2026-06-04T09:12:05Z relay-render[921]: cache refresh table=standings rows=60
+2026-06-04T09:12:08Z medals-worker[859]: job completed id=JOB-8090
+2026-06-04T09:12:11Z scoreboard-cache[863]: job completed id=JOB-9849
+2026-06-04T09:12:14Z podium-camera[909]: worker heartbeat queue=medals latency_ms=125
+2026-06-04T09:12:15Z podium-camera[960]: ceremony display refresh ok node=stadium-6
+2026-06-04T09:12:17Z scoreboard-cache[769]: relay frame batch completed frames=8
+2026-06-04T09:12:20Z anthem-player[917]: temporary replay buffer rotated segment=85
+2026-06-04T09:12:21Z ceremony-bus[890]: temporary replay buffer rotated segment=4
+2026-06-04T09:12:26Z medals-worker[857]: stream checkpoint rid=JDG-7422 pointer=0x3a80
+2026-06-04T09:12:30Z timer-sync[893]: camera preview saved lane=7
+2026-06-04T09:12:31Z lane-watch[747]: temporary replay buffer rotated segment=66
+2026-06-04T09:12:31Z podium-camera[918]: local archive scan completed files=28
+2026-06-04T09:12:34Z medals-worker[952]: local archive scan completed files=18
+2026-06-04T09:12:37Z medals-worker[724]: warning duplicate packet seen stream=podium
+2026-06-04T09:12:39Z scoreboard-cache[821]: medal update event queued lane=8
+2026-06-04T09:12:48Z anthem-player[899]: warning duplicate packet seen stream=finish
+2026-06-04T09:12:48Z relay-render[700]: relay frame batch completed frames=12
+2026-06-04T09:12:49Z scoreboard-cache[726]: cache refresh table=standings rows=102
+2026-06-04T09:12:53Z anthem-player[870]: worker heartbeat queue=medals latency_ms=177
+2026-06-04T09:12:53Z relay-render[774]: local archive scan completed files=40
+2026-06-04T09:12:55Z anthem-player[814]: cache refresh table=standings rows=57
+2026-06-04T09:13:01Z lane-watch[718]: relay frame batch completed frames=3
+2026-06-04T09:13:03Z ceremony-bus[966]: ceremony display refresh ok node=stadium-3
+2026-06-04T09:13:14Z anthem-player[776]: temporary replay buffer rotated segment=27
+2026-06-04T09:13:14Z ceremony-bus[751]: stream checkpoint rid=VIEW-3131 pointer=0x841d
+2026-06-04T09:13:15Z scoreboard-cache[719]: worker heartbeat queue=medals latency_ms=283
+2026-06-04T09:13:20Z anthem-player[995]: medal update event queued lane=8
+2026-06-04T09:13:22Z podium-camera[995]: worker heartbeat queue=medals latency_ms=247
+2026-06-04T09:13:23Z lane-watch[980]: medal update event queued lane=5
+2026-06-04T09:13:23Z podium-camera[773]: timer sync drift_ns=1993
+2026-06-04T09:13:26Z relay-render[756]: ceremony display refresh ok node=stadium-6
+2026-06-04T09:13:31Z ceremony-bus[740]: warning duplicate packet seen stream=relay
+2026-06-04T09:13:31Z ceremony-bus[777]: temporary replay buffer rotated segment=72
+2026-06-04T09:13:31Z timer-sync[963]: timer sync drift_ns=7345
+2026-06-04T09:13:38Z ceremony-bus[994]: local archive scan completed files=31
+2026-06-04T09:13:39Z timer-sync[857]: ceremony display refresh ok node=stadium-6
+2026-06-04T09:13:43Z podium-camera[900]: warning duplicate packet seen stream=relay
+2026-06-04T09:13:44Z lane-watch[789]: stream checkpoint rid=ADM-0001 pointer=0xda80
+2026-06-04T09:13:52Z medals-worker[879]: medal update event queued lane=1
+2026-06-04T09:13:56Z scoreboard-cache[716]: stream checkpoint rid=LANE-7007 pointer=0x3576
+2026-06-04T09:13:59Z podium-camera[986]: relay frame batch completed frames=35
+2026-06-04T09:13:59Z timer-sync[966]: warning duplicate packet seen stream=anthem
+2026-06-04T09:14:00Z podium-camera[856]: camera preview saved lane=1
+2026-06-04T09:14:00Z timer-sync[916]: warning duplicate packet seen stream=anthem
+2026-06-04T09:14:05Z medals-worker[749]: timer sync drift_ns=1533
+2026-06-04T09:14:06Z medals-worker[924]: warning duplicate packet seen stream=camera
+2026-06-04T09:14:07Z podium-camera[950]: job completed id=JOB-5066
+2026-06-04T09:14:08Z timer-sync[987]: job completed id=JOB-2847
+2026-06-04T09:14:09Z ceremony-bus[948]: local archive scan completed files=34
+2026-06-04T09:14:10Z medals-worker[801]: camera preview saved lane=8
+2026-06-04T09:14:13Z ceremony-bus[995]: local archive scan completed files=39
+2026-06-04T09:14:15Z relay-render[705]: ceremony display refresh ok node=stadium-9
+2026-06-04T09:14:19Z relay-render[890]: cache refresh table=standings rows=9
+2026-06-04T09:14:23Z ceremony-bus[839]: stream checkpoint rid=REF-7781 pointer=0x62c8
+2026-06-04T09:14:24Z scoreboard-cache[843]: camera preview saved lane=4
+2026-06-04T09:14:28Z scoreboard-cache[804]: cache refresh table=standings rows=88
+2026-06-04T09:14:29Z timer-sync[854]: medal update event queued lane=3
+2026-06-04T09:14:34Z timer-sync[730]: cache refresh table=standings rows=40
+2026-06-04T09:14:35Z lane-watch[800]: temporary replay buffer rotated segment=5
+2026-06-04T09:14:35Z relay-render[742]: timer sync drift_ns=-5502
+2026-06-04T09:14:36Z scoreboard-cache[950]: worker heartbeat queue=medals latency_ms=183
+2026-06-04T09:14:37Z scoreboard-cache[763]: timer sync drift_ns=-7835
+2026-06-04T09:14:43Z medals-worker[925]: medal update event queued lane=1
+2026-06-04T09:14:43Z medals-worker[973]: cache refresh table=standings rows=2
+2026-06-04T09:14:54Z medals-worker[925]: temporary replay buffer rotated segment=35
+2026-06-04T09:14:56Z ceremony-bus[790]: job completed id=JOB-7183

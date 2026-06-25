@@ -1,0 +1,264 @@
+2026-06-04T09:00:00Z sshd[6050]: Disconnected from authenticating user camera_srv 10.8.0.22 port 27749 [preauth]
+2026-06-04T09:00:01Z sshd[3629]: Disconnected from authenticating user referee 45.83.190.71 port 52534 [preauth]
+2026-06-04T09:00:04Z sudo[7537]: lane_monitor : TTY=pts/1 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:00:04Z systemd-logind[6557]: New session POD-4040 of user referee.
+2026-06-04T09:00:13Z sshd[4225]: Accepted publickey for admin from 172.16.4.8 port 62303 ssh2 session=LANE-7007
+2026-06-04T09:00:21Z sudo[2929]: judge : TTY=pts/0 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:00:29Z sshd[3777]: Disconnected from authenticating user camera_srv 185.12.44.9 port 29879 [preauth]
+2026-06-04T09:00:30Z systemd-logind[3563]: New session VIEW-3131 of user judge_backup.
+2026-06-04T09:00:44Z sshd[3620]: Accepted publickey for judge from 10.8.0.31 port 41628 ssh2 session=JDG-7422
+2026-06-04T09:00:45Z sshd[5561]: Disconnected from authenticating user camera_srv 91.200.12.4 port 62090 [preauth]
+2026-06-04T09:00:48Z sudo[5955]: camera_srv : TTY=pts/3 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:00:59Z systemd-logind[3557]: New session ADM-0001 of user camera_srv.
+2026-06-04T09:01:00Z sshd[9665]: Failed password for invalid user admin from 193.44.10.66 port 41643 ssh2
+2026-06-04T09:01:02Z systemd-logind[5008]: New session JDG-7422 of user admin.
+2026-06-04T09:01:04Z sudo[5405]: scoreboard : TTY=pts/0 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:01:06Z sudo[6732]: root : TTY=pts/2 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:01:11Z sshd[6870]: Accepted publickey for relay_bot from 10.8.0.12 port 62562 ssh2 session=JDG-7422
+2026-06-04T09:01:17Z sshd[9709]: Failed password for invalid user judge_backup from 193.44.10.66 port 20202 ssh2
+2026-06-04T09:01:19Z systemd-logind[6391]: New session JDG-7420 of user timer.
+2026-06-04T09:01:24Z sudo[9741]: scoreboard : TTY=pts/1 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:01:29Z sshd[5844]: Failed password for invalid user podium from 156.90.11.30 port 31042 ssh2
+2026-06-04T09:01:32Z sshd[9149]: Disconnected from authenticating user media_sync 10.8.0.12 port 20038 [preauth]
+2026-06-04T09:01:39Z sshd[5959]: Accepted publickey for admin from 10.8.0.22 port 32666 ssh2 session=POD-4040
+2026-06-04T09:01:41Z sshd[8321]: Disconnected from authenticating user judge 10.8.0.22 port 22511 [preauth]
+2026-06-04T09:01:42Z sudo[1658]: scoreboard : TTY=pts/4 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:01:44Z sudo[3961]: judge_backup : TTY=pts/0 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:01:48Z systemd-logind[7327]: New session MED-1020 of user backup.
+2026-06-04T09:01:51Z sshd[4604]: Failed password for invalid user root from 185.12.44.9 port 54671 ssh2
+2026-06-04T09:01:53Z sshd[7917]: Accepted publickey for backup from 10.8.0.31 port 36960 ssh2 session=JDG-7420
+2026-06-04T09:01:53Z systemd-logind[3364]: New session JDG-7422 of user admin.
+2026-06-04T09:01:54Z sshd[6003]: Failed password for invalid user guest from 80.246.31.19 port 38624 ssh2
+2026-06-04T09:01:55Z systemd-logind[3068]: New session MED-1020 of user medal_ops.
+2026-06-04T09:01:57Z systemd-logind[8497]: New session JDG-7420 of user judge.
+2026-06-04T09:02:03Z sshd[4124]: Accepted publickey for ceremony from 10.8.0.22 port 54285 ssh2 session=JDG-7420
+2026-06-04T09:02:11Z sshd[9280]: Disconnected from authenticating user referee 80.246.31.19 port 28721 [preauth]
+2026-06-04T09:02:14Z sshd[9701]: Disconnected from authenticating user root 91.200.12.4 port 23192 [preauth]
+2026-06-04T09:02:17Z systemd-logind[2286]: New session SCB-8840 of user camera_srv.
+2026-06-04T09:02:20Z sshd[6411]: Accepted publickey for backup from 91.200.12.4 port 22700 ssh2 session=JDG-7422
+2026-06-04T09:02:24Z sshd[1434]: Disconnected from authenticating user podium 193.44.10.66 port 44791 [preauth]
+2026-06-04T09:02:25Z sshd[2549]: Accepted publickey for camera_srv from 10.8.0.12 port 34031 ssh2 session=REF-7781
+2026-06-04T09:02:25Z sshd[8509]: Failed password for invalid user media_sync from 10.8.0.31 port 38186 ssh2
+2026-06-04T09:02:26Z sshd[4750]: Disconnected from authenticating user judge_backup 10.8.0.31 port 23997 [preauth]
+2026-06-04T09:02:37Z sshd[3780]: Disconnected from authenticating user guest 193.44.10.66 port 40304 [preauth]
+2026-06-04T09:02:38Z sshd[2940]: Disconnected from authenticating user podium 45.83.190.78 port 38159 [preauth]
+2026-06-04T09:02:38Z sshd[9133]: Disconnected from authenticating user lane_monitor 156.90.11.30 port 53807 [preauth]
+2026-06-04T09:02:44Z sudo[7491]: scoreboard : TTY=pts/3 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:02:46Z systemd-logind[3673]: New session JDG-7420 of user media_sync.
+2026-06-04T09:02:47Z sshd[2922]: Disconnected from authenticating user podium 10.8.0.22 port 59668 [preauth]
+2026-06-04T09:02:51Z sudo[9569]: admin : TTY=pts/4 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:02:53Z sshd[3753]: Accepted publickey for medal_ops from 10.8.0.22 port 46385 ssh2 session=SCB-8840
+2026-06-04T09:02:54Z systemd-logind[3650]: New session JDG-7420 of user judge.
+2026-06-04T09:02:55Z sshd[7836]: Disconnected from authenticating user guest 185.12.44.9 port 59547 [preauth]
+2026-06-04T09:02:57Z sshd[5477]: Failed password for invalid user judge_backup from 102.77.45.12 port 61684 ssh2
+2026-06-04T09:03:03Z systemd-logind[7372]: New session VIEW-3131 of user judge_backup.
+2026-06-04T09:03:07Z sudo[1749]: guest : TTY=pts/2 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:03:08Z sshd[4864]: Disconnected from authenticating user backup 172.16.4.8 port 48033 [preauth]
+2026-06-04T09:03:13Z sshd[3716]: Failed password for invalid user relay_bot from 193.44.10.66 port 42688 ssh2
+2026-06-04T09:03:19Z sudo[9858]: judge_backup : TTY=pts/1 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:03:23Z sudo[7338]: media_sync : TTY=pts/0 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:03:23Z sudo[8980]: admin : TTY=pts/0 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:03:39Z sudo[3247]: referee : TTY=pts/1 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:03:42Z sudo[5164]: camera_srv : TTY=pts/3 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:03:49Z sshd[6267]: Failed password for invalid user admin from 80.246.31.19 port 60069 ssh2
+2026-06-04T09:03:51Z systemd-logind[9999]: New session ADM-0001 of user ceremony.
+2026-06-04T09:03:54Z sshd[2047]: Disconnected from authenticating user relay_bot 45.83.190.70 port 36625 [preauth]
+2026-06-04T09:03:56Z sshd[1004]: Failed password for invalid user ceremony from 156.90.11.30 port 55197 ssh2
+2026-06-04T09:03:56Z systemd-logind[2399]: New session JDG-7422 of user podium.
+2026-06-04T09:04:10Z sshd[1962]: Failed password for invalid user ceremony from 193.44.10.66 port 58730 ssh2
+2026-06-04T09:04:10Z sshd[3736]: Disconnected from authenticating user scoreboard 10.8.0.31 port 59671 [preauth]
+2026-06-04T09:04:12Z sshd[4094]: Accepted publickey for relay_bot from 10.8.0.22 port 34572 ssh2 session=POD-4040
+2026-06-04T09:04:12Z sshd[6066]: Disconnected from authenticating user backup 45.83.190.71 port 57038 [preauth]
+2026-06-04T09:04:21Z sshd[4454]: Failed password for invalid user guest from 156.90.11.30 port 49744 ssh2
+2026-06-04T09:04:22Z sshd[7228]: Accepted publickey for admin from 185.12.44.9 port 56230 ssh2 session=VIEW-3131
+2026-06-04T09:04:23Z sshd[5635]: Accepted publickey for backup from 80.246.31.19 port 48193 ssh2 session=MED-1020
+2026-06-04T09:04:24Z sudo[8914]: judge_backup : TTY=pts/0 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:04:24Z sudo[9095]: judge : TTY=pts/4 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:04:25Z sshd[5058]: Failed password for invalid user judge from 91.200.12.4 port 62031 ssh2
+2026-06-04T09:04:25Z systemd-logind[9057]: New session SCB-8840 of user backup.
+2026-06-04T09:04:45Z sshd[5816]: Failed password for invalid user timer from 80.246.31.19 port 33699 ssh2
+2026-06-04T09:04:56Z sudo[8546]: medal_ops : TTY=pts/2 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:05:07Z sshd[3445]: Failed password for invalid user root from 193.44.10.66 port 64508 ssh2
+2026-06-04T09:05:14Z sshd[9409]: Accepted publickey for admin from 10.8.0.42 port 30399 ssh2 session=LANE-7007
+2026-06-04T09:05:15Z sshd[1350]: Accepted publickey for judge_backup from 10.8.0.12 port 62424 ssh2 session=REF-7781
+2026-06-04T09:05:15Z sshd[4673]: Failed password for invalid user camera_srv from 172.16.4.8 port 34311 ssh2
+2026-06-04T09:05:15Z sshd[9447]: Disconnected from authenticating user guest 185.12.44.9 port 28329 [preauth]
+2026-06-04T09:05:20Z sshd[6646]: Failed password for invalid user backup from 80.246.31.19 port 40548 ssh2
+2026-06-04T09:05:24Z sshd[3738]: Failed password for invalid user relay_bot from 193.44.10.66 port 48188 ssh2
+2026-06-04T09:05:27Z sshd[3102]: Failed password for invalid user media_sync from 45.83.190.71 port 50436 ssh2
+2026-06-04T09:05:27Z sudo[8497]: podium : TTY=pts/2 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:05:32Z sshd[2437]: Disconnected from authenticating user scoreboard 10.8.0.31 port 64834 [preauth]
+2026-06-04T09:05:37Z sshd[3089]: Disconnected from authenticating user camera_srv 185.12.44.9 port 24151 [preauth]
+2026-06-04T09:05:38Z sshd[1598]: Accepted publickey for ceremony from 102.77.45.12 port 51675 ssh2 session=ADM-0001
+2026-06-04T09:05:43Z sshd[2957]: Accepted publickey for guest from 102.77.45.12 port 61529 ssh2 session=JDG-7420
+2026-06-04T09:05:47Z sudo[7457]: scoreboard : TTY=pts/3 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:05:49Z systemd-logind[3314]: New session VIEW-3131 of user timer.
+2026-06-04T09:05:49Z systemd-logind[4853]: New session POD-4040 of user podium.
+2026-06-04T09:05:50Z sshd[6731]: Disconnected from authenticating user lane_monitor 10.8.0.31 port 49880 [preauth]
+2026-06-04T09:05:50Z sshd[6907]: Failed password for invalid user referee from 10.8.0.22 port 58513 ssh2
+2026-06-04T09:05:52Z sudo[4538]: media_sync : TTY=pts/5 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:06:09Z sshd[1474]: Accepted publickey for camera_srv from 45.83.190.70 port 38000 ssh2 session=LANE-7007
+2026-06-04T09:06:10Z sshd[9670]: Failed password for invalid user backup from 10.8.0.42 port 21122 ssh2
+2026-06-04T09:06:11Z sshd[4807]: Disconnected from authenticating user medal_ops 80.246.31.19 port 41506 [preauth]
+2026-06-04T09:06:16Z sshd[1529]: Failed password for invalid user referee from 102.77.45.12 port 54655 ssh2
+2026-06-04T09:06:18Z sshd[8055]: Failed password for invalid user lane_monitor from 172.16.4.8 port 48417 ssh2
+2026-06-04T09:06:23Z sudo[7583]: ceremony : TTY=pts/0 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:06:24Z systemd-logind[4190]: New session POD-4040 of user medal_ops.
+2026-06-04T09:06:25Z sudo[4858]: ceremony : TTY=pts/4 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:06:27Z sshd[8191]: Accepted publickey for media_sync from 10.8.0.42 port 62529 ssh2 session=JDG-7422
+2026-06-04T09:06:28Z sshd[5481]: Accepted publickey for podium from 91.200.12.4 port 28534 ssh2 session=JDG-7420
+2026-06-04T09:06:30Z systemd-logind[7642]: New session JDG-7422 of user referee.
+2026-06-04T09:06:32Z sshd[4659]: Failed password for invalid user lane_monitor from 185.12.44.9 port 40675 ssh2
+2026-06-04T09:06:33Z sshd[8107]: Accepted publickey for ceremony from 193.44.10.66 port 50310 ssh2 session=POD-4040
+2026-06-04T09:06:41Z sshd[8771]: Disconnected from authenticating user guest 45.83.190.70 port 28995 [preauth]
+2026-06-04T09:06:48Z systemd-logind[6781]: New session SCB-8840 of user camera_srv.
+2026-06-04T09:06:50Z systemd-logind[6137]: New session ADM-0001 of user medal_ops.
+2026-06-04T09:06:55Z sshd[3903]: Failed password for invalid user admin from 10.8.0.31 port 60649 ssh2
+2026-06-04T09:06:56Z sshd[8495]: Failed password for invalid user referee from 193.44.10.66 port 51002 ssh2
+2026-06-04T09:07:04Z systemd-logind[9785]: New session JDG-7420 of user medal_ops.
+2026-06-04T09:07:09Z sshd[3077]: Accepted password for judge_backup from 45.83.190.78 port 50309 ssh2 session=JDG-7420
+2026-06-04T09:07:11Z sshd[3803]: Failed password for invalid user scoreboard from 45.83.190.70 port 52659 ssh2
+2026-06-04T09:07:11Z sudo[3717]: backup : TTY=pts/0 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:07:13Z sshd[1041]: Accepted password for judge_backup from 45.83.190.77 port 50312 ssh2 session=JDG-7421
+2026-06-04T09:07:14Z sshd[1350]: Disconnected from authenticating user medal_ops 80.246.31.19 port 39561 [preauth]
+2026-06-04T09:07:14Z sshd[9095]: Failed password for invalid user judge_backup from 91.200.12.4 port 32649 ssh2
+2026-06-04T09:07:18Z sshd[3091]: Accepted password for guest_judge from 45.83.190.77 port 50318 ssh2 session=JDG-7421
+2026-06-04T09:07:18Z sudo[8437]: referee : TTY=pts/4 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:07:18Z systemd-logind[1914]: New session MED-1020 of user podium.
+2026-06-04T09:07:20Z sshd[7847]: Accepted publickey for judge_backup from 45.83.190.70 port 57446 ssh2 session=LANE-7007
+2026-06-04T09:07:21Z sudo[9591]: referee : TTY=pts/5 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:07:22Z sudo[2293]: podium : TTY=pts/5 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:07:25Z sshd[3102]: Accepted publickey for judge_backup from 45.83.190.77 port 50325 ssh2 session=JDG-7422
+2026-06-04T09:07:34Z sudo[8968]: timer : TTY=pts/2 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:07:43Z sudo[2317]: podium : TTY=pts/0 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:07:52Z sshd[9433]: Disconnected from authenticating user ceremony 80.246.31.19 port 51189 [preauth]
+2026-06-04T09:07:52Z sshd[9761]: Failed password for invalid user relay_bot from 45.83.190.78 port 21630 ssh2
+2026-06-04T09:08:01Z sudo[9564]: lane_monitor : TTY=pts/4 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:08:03Z sshd[6187]: Accepted publickey for admin from 45.83.190.71 port 36908 ssh2 session=ADM-0001
+2026-06-04T09:08:10Z sshd[7499]: Accepted publickey for medal_ops from 10.8.0.42 port 46555 ssh2 session=JDG-7420
+2026-06-04T09:08:11Z sshd[3446]: Accepted publickey for scoreboard from 10.8.0.12 port 52246 ssh2 session=JDG-7420
+2026-06-04T09:08:14Z sshd[5922]: Disconnected from authenticating user scoreboard 102.77.45.12 port 38512 [preauth]
+2026-06-04T09:08:17Z sshd[9910]: Disconnected from authenticating user scoreboard 102.77.45.12 port 33462 [preauth]
+2026-06-04T09:08:22Z sshd[9371]: Disconnected from authenticating user referee 10.8.0.22 port 44199 [preauth]
+2026-06-04T09:08:23Z systemd-logind[5109]: New session REF-7781 of user admin.
+2026-06-04T09:08:28Z systemd-logind[8355]: New session ADM-0001 of user guest.
+2026-06-04T09:08:29Z sshd[8468]: Failed password for invalid user judge from 10.8.0.22 port 40638 ssh2
+2026-06-04T09:08:33Z sudo[2858]: scoreboard : TTY=pts/1 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:08:40Z sshd[3533]: Failed password for invalid user lane_monitor from 91.200.12.4 port 20124 ssh2
+2026-06-04T09:08:51Z sshd[3148]: Disconnected from authenticating user guest 193.44.10.66 port 34280 [preauth]
+2026-06-04T09:08:51Z sshd[5230]: Disconnected from authenticating user referee 45.83.190.71 port 36117 [preauth]
+2026-06-04T09:08:53Z sshd[3368]: Disconnected from authenticating user scoreboard 10.8.0.22 port 59121 [preauth]
+2026-06-04T09:09:01Z sshd[1952]: Accepted publickey for judge_backup from 10.8.0.22 port 37900 ssh2 session=SCB-8840
+2026-06-04T09:09:02Z sshd[6585]: Failed password for invalid user guest from 10.8.0.12 port 31549 ssh2
+2026-06-04T09:09:06Z sshd[9746]: Disconnected from authenticating user guest 10.8.0.31 port 28753 [preauth]
+2026-06-04T09:09:06Z systemd-logind[5208]: New session POD-4040 of user podium.
+2026-06-04T09:09:12Z sshd[7154]: Failed password for invalid user guest from 193.44.10.66 port 22331 ssh2
+2026-06-04T09:09:13Z systemd-logind[9248]: New session JDG-7422 of user relay_bot.
+2026-06-04T09:09:20Z sudo[5814]: judge_backup : TTY=pts/2 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:09:21Z sudo[4439]: root : TTY=pts/2 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:09:24Z sshd[2574]: Accepted publickey for podium from 10.8.0.12 port 41797 ssh2 session=VIEW-3131
+2026-06-04T09:09:25Z systemd-logind[8506]: New session ADM-0001 of user scoreboard.
+2026-06-04T09:09:31Z sshd[9738]: Disconnected from authenticating user judge 91.200.12.4 port 41475 [preauth]
+2026-06-04T09:09:31Z sshd[9782]: Failed password for invalid user podium from 10.8.0.12 port 27399 ssh2
+2026-06-04T09:09:35Z sudo[7758]: ceremony : TTY=pts/3 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:09:36Z sshd[3710]: Failed password for invalid user admin from 10.8.0.31 port 35950 ssh2
+2026-06-04T09:09:37Z systemd-logind[8624]: New session REF-7781 of user relay_bot.
+2026-06-04T09:09:38Z sshd[9752]: Accepted publickey for judge_backup from 193.44.10.66 port 48494 ssh2 session=LANE-7007
+2026-06-04T09:09:39Z sshd[5946]: Accepted publickey for ceremony from 45.83.190.70 port 33058 ssh2 session=SCB-8840
+2026-06-04T09:09:39Z sshd[7964]: Disconnected from authenticating user podium 10.8.0.31 port 43501 [preauth]
+2026-06-04T09:09:42Z sudo[5679]: camera_srv : TTY=pts/3 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:09:44Z systemd-logind[6022]: New session LANE-7007 of user relay_bot.
+2026-06-04T09:09:53Z sshd[2147]: Failed password for invalid user lane_monitor from 10.8.0.22 port 57634 ssh2
+2026-06-04T09:09:53Z systemd-logind[2851]: New session LANE-7007 of user media_sync.
+2026-06-04T09:09:54Z sshd[1958]: Accepted publickey for guest from 80.246.31.19 port 61243 ssh2 session=ADM-0001
+2026-06-04T09:09:56Z sudo[9740]: judge_backup : TTY=pts/5 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:09:57Z sshd[9637]: Disconnected from authenticating user lane_monitor 172.16.4.8 port 55422 [preauth]
+2026-06-04T09:10:04Z sshd[3188]: Accepted publickey for camera_srv from 102.77.45.12 port 31287 ssh2 session=ADM-0001
+2026-06-04T09:10:04Z sshd[6968]: Failed password for invalid user judge_backup from 172.16.4.8 port 58294 ssh2
+2026-06-04T09:10:08Z sshd[4598]: Accepted publickey for root from 10.8.0.31 port 32389 ssh2 session=JDG-7420
+2026-06-04T09:10:09Z systemd-logind[4584]: New session JDG-7420 of user guest.
+2026-06-04T09:10:10Z sshd[8649]: Accepted publickey for referee from 156.90.11.30 port 57321 ssh2 session=LANE-7007
+2026-06-04T09:10:11Z systemd-logind[7491]: New session REF-7781 of user scoreboard.
+2026-06-04T09:10:18Z sshd[4428]: Failed password for invalid user camera_srv from 80.246.31.19 port 21986 ssh2
+2026-06-04T09:10:20Z sshd[4285]: Accepted publickey for podium from 45.83.190.70 port 40874 ssh2 session=LANE-7007
+2026-06-04T09:10:22Z systemd-logind[3638]: New session JDG-7420 of user media_sync.
+2026-06-04T09:10:24Z sshd[7428]: Accepted publickey for admin from 10.8.0.42 port 54154 ssh2 session=JDG-7422
+2026-06-04T09:10:24Z systemd-logind[3706]: New session LANE-7007 of user podium.
+2026-06-04T09:10:25Z sshd[1229]: Disconnected from authenticating user ceremony 45.83.190.78 port 21908 [preauth]
+2026-06-04T09:10:26Z sshd[6057]: Accepted publickey for podium from 45.83.190.71 port 60816 ssh2 session=JDG-7420
+2026-06-04T09:10:26Z sshd[6751]: Accepted publickey for podium from 193.44.10.66 port 62259 ssh2 session=VIEW-3131
+2026-06-04T09:10:27Z sshd[3993]: Accepted publickey for media_sync from 91.200.12.4 port 36476 ssh2 session=JDG-7420
+2026-06-04T09:10:30Z systemd-logind[6505]: New session JDG-7422 of user timer.
+2026-06-04T09:10:31Z sshd[7424]: Accepted publickey for medal_ops from 156.90.11.30 port 56135 ssh2 session=ADM-0001
+2026-06-04T09:10:31Z sudo[4228]: judge_backup : TTY=pts/5 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:10:34Z sshd[9881]: Accepted publickey for root from 80.246.31.19 port 47645 ssh2 session=JDG-7420
+2026-06-04T09:10:36Z sshd[8185]: Failed password for invalid user relay_bot from 193.44.10.66 port 42110 ssh2
+2026-06-04T09:10:38Z sshd[3527]: Accepted publickey for media_sync from 80.246.31.19 port 36996 ssh2 session=POD-4040
+2026-06-04T09:10:40Z sshd[3950]: Disconnected from authenticating user podium 102.77.45.12 port 31110 [preauth]
+2026-06-04T09:10:41Z sshd[1204]: Accepted publickey for podium from 172.16.4.8 port 39719 ssh2 session=REF-7781
+2026-06-04T09:10:42Z systemd-logind[5278]: New session JDG-7422 of user ceremony.
+2026-06-04T09:10:54Z sudo[9537]: podium : TTY=pts/0 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:10:57Z sshd[4071]: Accepted publickey for admin from 45.83.190.71 port 41858 ssh2 session=ADM-0001
+2026-06-04T09:10:58Z sshd[9692]: Failed password for invalid user judge from 156.90.11.30 port 47802 ssh2
+2026-06-04T09:11:02Z sudo[8005]: lane_monitor : TTY=pts/4 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:11:03Z sshd[8730]: Failed password for invalid user scoreboard from 10.8.0.22 port 24498 ssh2
+2026-06-04T09:11:04Z sshd[6422]: Accepted publickey for media_sync from 172.16.4.8 port 48561 ssh2 session=VIEW-3131
+2026-06-04T09:11:04Z sudo[4779]: camera_srv : TTY=pts/5 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:11:06Z sshd[2506]: Failed password for invalid user judge from 91.200.12.4 port 22647 ssh2
+2026-06-04T09:11:13Z sudo[7927]: podium : TTY=pts/4 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:11:20Z sudo[6256]: relay_bot : TTY=pts/3 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:11:24Z sudo[8053]: media_sync : TTY=pts/5 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:11:25Z sshd[9401]: Failed password for invalid user relay_bot from 10.8.0.42 port 23362 ssh2
+2026-06-04T09:11:27Z sudo[6386]: timer : TTY=pts/5 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:11:45Z systemd-logind[2120]: New session SCB-8840 of user media_sync.
+2026-06-04T09:11:48Z sshd[1100]: Disconnected from authenticating user medal_ops 10.8.0.31 port 29669 [preauth]
+2026-06-04T09:11:50Z sshd[8726]: Accepted publickey for guest from 10.8.0.42 port 25888 ssh2 session=ADM-0001
+2026-06-04T09:11:51Z sshd[9333]: Failed password for invalid user relay_bot from 45.83.190.78 port 32421 ssh2
+2026-06-04T09:12:07Z systemd-logind[6951]: New session JDG-7420 of user root.
+2026-06-04T09:12:09Z sshd[4553]: Failed password for invalid user scoreboard from 45.83.190.78 port 47330 ssh2
+2026-06-04T09:12:30Z sshd[1761]: Disconnected from authenticating user camera_srv 102.77.45.12 port 48830 [preauth]
+2026-06-04T09:12:32Z systemd-logind[8339]: New session ADM-0001 of user ceremony.
+2026-06-04T09:12:37Z systemd-logind[5247]: New session MED-1020 of user timer.
+2026-06-04T09:12:39Z systemd-logind[5335]: New session ADM-0001 of user podium.
+2026-06-04T09:12:42Z systemd-logind[9133]: New session MED-1020 of user medal_ops.
+2026-06-04T09:12:43Z sshd[6793]: Accepted publickey for medal_ops from 80.246.31.19 port 21561 ssh2 session=REF-7781
+2026-06-04T09:12:51Z sshd[6776]: Accepted publickey for scoreboard from 80.246.31.19 port 46334 ssh2 session=REF-7781
+2026-06-04T09:12:55Z sshd[1647]: Accepted publickey for judge from 80.246.31.19 port 64466 ssh2 session=JDG-7422
+2026-06-04T09:12:59Z sshd[6488]: Failed password for invalid user admin from 102.77.45.12 port 43711 ssh2
+2026-06-04T09:12:59Z sudo[5355]: admin : TTY=pts/1 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:13:02Z sshd[9049]: Failed password for invalid user podium from 156.90.11.30 port 41426 ssh2
+2026-06-04T09:13:12Z sshd[1108]: Accepted publickey for referee from 193.44.10.66 port 64492 ssh2 session=VIEW-3131
+2026-06-04T09:13:13Z sshd[9198]: Failed password for invalid user referee from 10.8.0.22 port 46421 ssh2
+2026-06-04T09:13:14Z sshd[8206]: Accepted publickey for lane_monitor from 102.77.45.12 port 44254 ssh2 session=LANE-7007
+2026-06-04T09:13:16Z systemd-logind[5126]: New session LANE-7007 of user judge.
+2026-06-04T09:13:22Z sshd[6761]: Disconnected from authenticating user referee 10.8.0.42 port 30780 [preauth]
+2026-06-04T09:13:31Z sshd[7899]: Failed password for invalid user media_sync from 10.8.0.42 port 29809 ssh2
+2026-06-04T09:13:36Z sshd[1356]: Accepted publickey for referee from 193.44.10.66 port 27520 ssh2 session=LANE-7007
+2026-06-04T09:13:36Z sshd[9580]: Disconnected from authenticating user judge_backup 10.8.0.42 port 56422 [preauth]
+2026-06-04T09:13:46Z systemd-logind[5600]: New session LANE-7007 of user camera_srv.
+2026-06-04T09:13:52Z systemd-logind[2149]: New session VIEW-3131 of user judge.
+2026-06-04T09:13:53Z sudo[7004]: scoreboard : TTY=pts/4 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:13:56Z systemd-logind[5000]: New session JDG-7422 of user referee.
+2026-06-04T09:13:56Z systemd-logind[6731]: New session POD-4040 of user ceremony.
+2026-06-04T09:13:58Z sshd[7039]: Accepted publickey for media_sync from 10.8.0.12 port 37170 ssh2 session=MED-1020
+2026-06-04T09:14:00Z sudo[1440]: camera_srv : TTY=pts/2 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:14:00Z systemd-logind[6541]: New session POD-4040 of user camera_srv.
+2026-06-04T09:14:02Z sshd[6738]: Disconnected from authenticating user backup 156.90.11.30 port 25504 [preauth]
+2026-06-04T09:14:03Z sshd[6685]: Failed password for invalid user podium from 156.90.11.30 port 55111 ssh2
+2026-06-04T09:14:08Z sudo[6489]: medal_ops : TTY=pts/3 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:14:09Z sudo[4403]: relay_bot : TTY=pts/1 ; PWD=/srv/cscc ; USER=root ; COMMAND=/usr/bin/tail -f /var/log/cscc/medals_api.log
+2026-06-04T09:14:14Z sshd[2050]: Failed password for invalid user root from 45.83.190.71 port 32764 ssh2
+2026-06-04T09:14:16Z sshd[3946]: Accepted publickey for root from 102.77.45.12 port 42118 ssh2 session=REF-7781
+2026-06-04T09:14:22Z sshd[5817]: Disconnected from authenticating user medal_ops 45.83.190.78 port 61909 [preauth]
+2026-06-04T09:14:26Z sshd[2965]: Accepted publickey for referee from 193.44.10.66 port 56257 ssh2 session=POD-4040
+2026-06-04T09:14:26Z sshd[8073]: Accepted publickey for lane_monitor from 45.83.190.71 port 32251 ssh2 session=POD-4040
+2026-06-04T09:14:31Z sshd[6737]: Accepted publickey for medal_ops from 185.12.44.9 port 33709 ssh2 session=REF-7781
+2026-06-04T09:14:31Z sshd[9019]: Accepted publickey for backup from 172.16.4.8 port 20310 ssh2 session=VIEW-3131
+2026-06-04T09:14:33Z sshd[2061]: Accepted publickey for timer from 185.12.44.9 port 22671 ssh2 session=ADM-0001
+2026-06-04T09:14:33Z sshd[6354]: Disconnected from authenticating user backup 156.90.11.30 port 20287 [preauth]
+2026-06-04T09:14:36Z sshd[4023]: Failed password for invalid user lane_monitor from 10.8.0.31 port 23758 ssh2
+2026-06-04T09:14:38Z sshd[7406]: Accepted publickey for judge from 10.8.0.31 port 42152 ssh2 session=POD-4040
+2026-06-04T09:14:40Z sshd[5688]: Disconnected from authenticating user lane_monitor 80.246.31.19 port 22924 [preauth]
+2026-06-04T09:14:42Z sshd[7676]: Failed password for invalid user ceremony from 102.77.45.12 port 41696 ssh2
+2026-06-04T09:14:54Z systemd-logind[9822]: New session REF-7781 of user guest.
+2026-06-04T09:14:56Z systemd-logind[5414]: New session ADM-0001 of user medal_ops.
